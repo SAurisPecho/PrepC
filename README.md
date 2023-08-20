@@ -1,2 +1,1 @@
-# PrepC
-Este es un repositorio de prueba mod.2
+este es un ejemplo de como crear un repositorio y clonar desde github
